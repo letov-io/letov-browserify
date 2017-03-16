@@ -1,6 +1,6 @@
 {
   "name": "letov-browserify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Letov browser version",
   "main":"dist/letov.js",
   "scripts": {
